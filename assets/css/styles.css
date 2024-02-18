@@ -163,5 +163,31 @@ main {
   padding: 7px;
 }
 
+    /* Events section start here  */
+
+
+.event .event-content{
+width: 100%;
+padding: 7px;
+}
+
+.event .event-content h2{
+  font-size: 30px;
+  color: #3099e9;
+  text-transform: uppercase;
+  padding-right: 45px;
+}
+.event .event-content p{
+  font-size: 18px;
+  color: #6a6a6a;
+  text-transform: capitalize;
+  margin-top: 20px;
+}
+
+.news{
+  grid-gap: 50px;
+  margin: 25px auto;
+}
+
 /* Main section end here */
 /* Mobile sections end here */
