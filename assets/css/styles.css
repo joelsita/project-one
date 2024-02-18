@@ -275,6 +275,10 @@ main {
   font-size: 20px;
   color: #0082e6;
 }
+.article h4{
+  color: #0082e6;
+  font-size: 25px;
+}
 
 .blog-section .section-content .cards .card .article p {
   font-size: 20px;
