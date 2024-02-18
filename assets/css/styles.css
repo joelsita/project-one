@@ -40,7 +40,7 @@ html {
   /* justify-content: baseline; */
 }
  .navigation-links ul li {
-  /* display: none; */
+  display: none;
   margin-top: 20px;
   font-size: 25px;
   padding-left: 50px;
@@ -61,8 +61,25 @@ html {
   transition: 0.5s;
 }
 
-.active{
+/* show the current page location */
+.page-location{
   text-shadow: 2px 2px 2px rgb(77, 5, 5);
   font-size: x-large;
+}
+
+/* toggle section */
+#toggle-menu {
+  display: none;
+}
+
+.menubtn {
+  font-size: 50px;
+  color: #f7f7f7;
+  padding-left: 50px;
+}
+
+#toggle-menu:checked ~ ul li{
+  display: block;
+  border: 2px solid rgb(20, 19, 19);
 }
 /* Mobile sections end here */
