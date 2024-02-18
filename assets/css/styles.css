@@ -93,6 +93,52 @@ main {
   width: 100%;
 }
 
+/* about section */
+
+.about .about-content {
+  padding: 7px;
+}
+
+.about .about-content .title {
+  width: 100%;
+  /* text-align: center; */
+  font-size: 30px;
+}
+
+.about .about-content h2 {
+  font-size: 35px;
+  color: #3099e9;
+  text-transform: uppercase;
+}
+
+.about .about-content p {
+  font-size: 18px;
+  color: #6a6a6a;
+  text-transform: capitalize;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.about .about-content .views {
+  grid-gap: 50px;
+  margin: 20px auto;
+}
+
+.about .about-content .views .card img {
+  width: 100%;
+  height: auto;
+  
+}
+
+.about .about-content .views .card .article p {
+  width: 100%;
+  padding-bottom: 10px;
+}
+
+.article{
+  font-size: 25px;
+  color: #3099e9;
+}
 
 /* Main section end here */
 /* Mobile sections end here */
