@@ -1,14 +1,12 @@
-/* Mobile sections start here */
-
+/* mobile first  */
 /* Googles fonts */
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 
-  /* Removed all the default browser css settings */ 
-  *{
+* {
   margin: 0;
   padding: 0;
   text-decoration: none;
-  list-style-type: none;
+  list-style: none;
   box-sizing: border-box;
 }
 
@@ -18,81 +16,137 @@ html {
   scroll-behavior: smooth;
 }
 
-/* header section start here  */
-.header {
+.container {
+  max-width: 1080px;
+  width:100%;
+  margin: 0 auto;
+}
+
+.banner {
   width: 100%;
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
   background-position: center;
+  /* background-size: center; */
 }
 
 /* logo */
+
 .logo {
+  width: 100px;
   cursor: pointer;
 }
 
-/* navigation */
-
-.header .navigation-links {
+.navbar {
+  width: 100%;
   padding: 3px;
   margin: auto;
   /* display all nav element side by side */
   display: block;
   /* justify-content: baseline; */
 }
- .navigation-links ul li {
+
+/* nav list */
+.navbar ul li {
+  /* for list to show side by side */
   display: none;
+  /* create space between list element */
   margin-top: 20px;
   font-size: 25px;
   padding-left: 50px;
 }
 
-/* navigation  ancor links text */
-.navigation-links ul li a {
+/* nav ankor links text */
+.navbar ul li a {
   text-transform: uppercase;
   color: white;
   font-weight: 800;
   padding: 2px;
- 
 }
 
-/* navigation bar background effect when mouse is hovered  */
-.navigation-links  a:hover {
+/* nav bar background effect  */
+.navbar a:hover {
   background: black;
   transition: 0.5s;
 }
 
-/* show the current page location */
-.page-location{
+.active{
   text-shadow: 2px 2px 2px rgb(77, 5, 5);
   font-size: x-large;
 }
 
+
+.content {
+  width: 100%;
+  color: black;
+  /* bring section down */
+  top: 45%;
+  /* bring contect section to y axis */
+  transform: translatey(-10%);
+  /* text-align: center; */
+}
+
+.content h1 {
+  margin-top: 70px;
+  font-size: 25px;
+  font-weight: 800;
+  padding-left: 5px;
+}
+
+button {
+  width: 100px;
+  /* make box bigger */
+  padding: 20px;
+  margin: 20px 5px;
+  text-align: center;
+  /* change shape of the box */
+  border-radius: 25px;
+  color: black;
+  border: 2px;
+  font-size: 20px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+button:hover {
+  background: rgb(0, 155, 226);
+  transition: 0.5s;
+}
+
+.banner video {
+  right: 0;
+  bottom: 0;
+  /* moves the video position down so nav bar and log display at top */
+  z-index: -3;
+  margin-bottom: 50px;
+}
+
 /* toggle section */
-#toggle-menu {
+#check {
   display: none;
 }
 
-.menubtn {
+.checkbtn {
   font-size: 50px;
   color: #f7f7f7;
   padding-left: 50px;
 }
 
-#toggle-menu:checked ~ ul li{
+                  /* toggle */
+
+#check:checked ~ ul li{
   display: block;
   border: 2px solid rgb(20, 19, 19);
 }
 
-/* Main section */
+/* 
+main section */
 main {
-  /* main section to take up the space and push footer down */
   flex: 1 0 auto;
 }
 
 .video-clip {
   width: 100%;
 }
-
 /* about section */
 
 .about .about-content {
@@ -119,28 +173,23 @@ main {
   width: 100%;
 }
 
-.about .about-content .views {
+.about .about-content .cards {
   grid-gap: 50px;
   margin: 20px auto;
 }
 
-.about .about-content .views .card img {
+.about .about-content .cards .card img {
   width: 100%;
   height: auto;
   
 }
 
-.about .about-content .views .card .article p {
+.about .about-content .cards .card .article p {
   width: 100%;
   padding-bottom: 10px;
 }
 
-.article{
-  font-size: 25px;
-  color: #3099e9;
-}
-
-/* Galleries section */
+/* about section end here */
 
 /* galleries */
 
@@ -242,138 +291,142 @@ main {
   color: #f7f7f7;
   padding: 6px 15px;
 }
+/* events End here */
+
 /* contact section */
 
 .contact-dive {
-  padding: 20px;
-   margin: 10px 0;
-  
- }
+ padding: 20px;
+  margin: 10px 0;
  
- .contact-dive .contact {
-   position: relative;
-   min-height: 50vh;
-   padding: 10px;
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   flex-direction: column;
-   background: linear-gradient(rgba(99, 97, 104, 0.7), rgba(0, 0, 0, 0.7));
-   background-size: cover;
- }
- 
- 
- .contact .content-contact h2 {
-   font-weight: 800;
-   color: white;
-   margin-bottom: 10px;
- 
-   font-size: 35px;
- 
-   text-transform: uppercase;
-   
- }
- 
- .contact .content-contact p {
-   font-weight: 300;
-   font-size: 20px;
-   color: white;
-   text-transform: capitalize;
-   width: 100%;
- 
- }
- 
- .container-contact {
-   width: 100%;
-   display: block;
-   justify-content: center;
-   align-items: center;
-   /* margin-top: 40px; */
- }
- 
- .container-contact .contactInfo {
-   width: 100%;
-   display: flex;
-   flex-direction: column;
- }
- 
- .container-contact .contactInfo .box {
-   position: relative;
-   padding: 20px 0;
-   display: flex;
- }
- 
- .container-contact .contactInfo .box .icon {
-   min-width: 50px;
-   height: 50px;
-   background: #fff;
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   border-radius: 30%;
-   font-size: 30px;
- }
- 
- .container-contact .contactInfo .box.text {
-   display: flex;
-   margin-left: 20px;
-   font-size: 25px;
-   color: white;
-   flex-direction: column;
-   font-weight: 500;
- }
- 
- .container-contact .contactInfo .box .text p {
-   font-weight: 500;
-   color: white;
-   font-size: 25px;
- }
- 
- .container-contact .contactInfo .box .text h3 {
-   font-weight: 500;
-   color: #3099e9;
-   font-size: 20px;
- }
- 
- .contactForm {
-   width: 100%;
-   padding: 20px 0;
-   background: #fff;
- }
- 
- .contactForm h2 {
-   font-size: 30px;
-   color: #333;
-   font-weight: 500;
- }
- 
- .contactForm .inputBox {
-   position: relative;
-   width: 100%;
-   margin-top: 10px;
- }
- 
- .contactForm .inputBox input,
- .contactForm .inputBox textarea {
-   width: 100%;
-   padding: 7px;
-   border: none;
-   border-bottom: 2px solid #333;
-   outline: none;
-   resize: none;
- }
- .contactForm .inputBox input[type="submit"] {
-   width: 100px;
-   background: #0082e6;
-   color: #fff;
-   cursor: pointer;
-   border: none;
-   padding: 15px;
-   font-size: 30px;
- }
-/* Main section end here */
+}
 
-/* footer section start here  */
+.contact-dive .contact {
+  position: relative;
+  min-height: 50vh;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: linear-gradient(rgba(99, 97, 104, 0.7), rgba(0, 0, 0, 0.7));
+  background-size: cover;
+}
+
+
+.contact .content-contact h2 {
+  font-weight: 800;
+  color: white;
+  margin-bottom: 10px;
+
+  font-size: 35px;
+
+  text-transform: uppercase;
+  
+}
+
+.contact .content-contact p {
+  font-weight: 300;
+  font-size: 20px;
+  color: white;
+  text-transform: capitalize;
+  width: 100%;
+
+}
+
+.container-contact {
+  width: 100%;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  /* margin-top: 40px; */
+}
+
+.container-contact .contactInfo {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.container-contact .contactInfo .box {
+  position: relative;
+  padding: 20px 0;
+  display: flex;
+}
+
+.container-contact .contactInfo .box .icon {
+  min-width: 50px;
+  height: 50px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30%;
+  font-size: 30px;
+}
+
+.container-contact .contactInfo .box.text {
+  display: flex;
+  margin-left: 20px;
+  font-size: 25px;
+  color: white;
+  flex-direction: column;
+  font-weight: 500;
+}
+
+.container-contact .contactInfo .box .text p {
+  font-weight: 500;
+  color: white;
+  font-size: 25px;
+}
+
+.container-contact .contactInfo .box .text h3 {
+  font-weight: 500;
+  color: #3099e9;
+  font-size: 20px;
+}
+
+.contactForm {
+  width: 100%;
+  padding: 20px 0;
+  background: #fff;
+}
+
+.contactForm h2 {
+  font-size: 30px;
+  color: #333;
+  font-weight: 500;
+}
+
+.contactForm .inputBox {
+  position: relative;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.contactForm .inputBox input,
+.contactForm .inputBox textarea {
+  width: 100%;
+  padding: 7px;
+  border: none;
+  border-bottom: 2px solid #333;
+  outline: none;
+  resize: none;
+}
+
+
+
+.contactForm .inputBox input[type="submit"] {
+  width: 100px;
+  background: #0082e6;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  padding: 15px;
+  font-size: 30px;
+}
+
+/* footer section */
 footer {
   background: #404141;
   margin-top: auto;
@@ -448,5 +501,190 @@ footer {
   letter-spacing: 2px;
 }
 
-/* footer section end*/
-/* Mobile sections end here */
+
+
+/* Medium devices or bigger than 768px (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+  .logo{
+    width: 10%;
+  }
+
+  .navbar{
+    padding: 20px;
+    display:flex;
+    align-items: center;
+    /* create space between the nav element i.e image  in one place and list in another space  */
+    justify-content: space-between;
+  }
+  #check:checked ~ ul li {
+    display: inline-block;
+    border: none;
+  }
+ 
+  
+  /* nav list */
+  .navbar ul li {
+    /* for list to show side by side */
+    display: inline-block;
+    /* create space between list element */
+    margin: 0px;
+    font-size: 20px;
+    padding: 10px;
+  }
+  
+  .checkbtn {
+    display: none;
+  }
+  
+
+  .content{
+    width: 100%;
+    color: black;
+    /* bring section down */
+    top:45%;
+    /* bring contect section to y axis */
+    transform: translatey(-30%);
+    text-align: center;
+  
+  }
+  
+  .content h1{
+    margin-top: 80px;
+    font-size: 30px;
+    font-weight: 800;
+  }
+  
+  button{
+    width: 200px;
+    /* make box bigger */
+    padding: 15px;
+    margin:20px 5px;
+    text-align: center;
+    /* change shape of the box */
+    border-radius: 20px;
+    color: black;
+    border: 2px;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: 600;
+    
+  }
+  
+  
+
+  .about .about-content {
+    width: 85%;
+    margin: 20px auto;
+  }
+  
+  .about .about-content .title{
+    width: 60%;
+    /* text-align: center; */
+    margin: auto;
+  }
+  
+  .about .about-content h2{
+    font-size: 30px;
+    color: #3099e9;
+  
+  }
+ .about1 h2{
+  text-align: none;
+ }
+  
+  .about .about-content p{
+    
+    padding-right: 40px;
+  }
+
+  .about .about-content .cards{
+  
+    margin: 25px auto;
+  }
+  .about .about-content .cards .card{
+    width: 100%;
+    background-color: #f7f7f7;
+    position: relative;
+  }
+  
+  .about .about-content .cards .card img{
+    width: 100%;
+    height: auto;
+  }
+  
+  .about .about-content .cards .card .article{
+    padding: 15px 20px;
+  }
+  
+  
+  .blog-section .section-content .cards .card .article h4{
+  font-size: 18px;
+  color: #0082e6;
+  }
+  
+  .about .about-content .cards .card .article p{
+    font-size: 18px;
+    color: #6a6a6a;
+    text-transform: capitalize;
+    }
+  
+
+  /* gallery */
+  .gallery{
+  padding-left: 0;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .gallery-header h1{
+    font-size: 30px;
+    color: #3099e9;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 2px 0;
+  }
+  
+  
+  
+  .gallery img{
+  width: 400px;
+  height: 400px;
+  padding: 5px;
+  
+  }
+  
+  .gallery img:hover{
+    opacity: 0.5;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  
+
+
+  .contactForm {
+    width: 70%;
+  }
+
+  .socialIcons{
+    justify-content: center;
+    justify-content: space-evenly;
+  }
+  .socialIcons a{
+    margin: 15px;
+  }
+
+  .footerNav{
+    margin:  20px 0;
+  }
+  
+  
+  .footerNav ul{
+    justify-content: center;
+    justify-content: space-evenly;
+    font-size: 20px;
+   
+  }
+ 
+}
