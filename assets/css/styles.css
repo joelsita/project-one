@@ -82,4 +82,15 @@ html {
   display: block;
   border: 2px solid rgb(20, 19, 19);
 }
+
+/* Main section */
+main {
+  /* main section to take up the space and push footer down */
+  flex: 1 0 auto;
+}
+
+.video-clip {
+  width: 100%;
+}
+/* Main section end here */
 /* Mobile sections end here */
