@@ -163,31 +163,84 @@ main {
   padding: 7px;
 }
 
-    /* Events section start here  */
-
-
-.event .event-content{
-width: 100%;
-padding: 7px;
+/* events start here */
+.blog-section {
+  width: 100%;
 }
 
-.event .event-content h2{
+.blog-section .section-content {
+  width: 100%;
+  padding: 7px;
+}
+
+.blog-section .section-content .title {
+  width: 100%;
+}
+
+.blog-section .section-content h2 {
   font-size: 30px;
   color: #3099e9;
   text-transform: uppercase;
   padding-right: 45px;
 }
-.event .event-content p{
+
+.blog-section .section-content p {
   font-size: 18px;
   color: #6a6a6a;
   text-transform: capitalize;
   margin-top: 20px;
+  width: 100%;
 }
 
-.news{
+.blog-section .section-content .cards {
   grid-gap: 50px;
   margin: 25px auto;
 }
+.blog-section .section-content .cards .card {
+  width: 100%;
+  background-color: #f7f7f7;
+  position: relative;
+}
 
+.blog-section .section-content .cards .card img {
+  width: 100%;
+  height: auto;
+}
+
+.blog-section .section-content .cards .card .article {
+  padding: 15px 20px;
+}
+
+.blog-section .section-content .cards .card .article h4 {
+  font-size: 20px;
+  color: #0082e6;
+}
+
+.blog-section .section-content .cards .card .article p {
+  font-size: 20px;
+  color: #6a6a6a;
+  text-transform: capitalize;
+  width: 100%;
+}
+
+.blog-section .section-content .cards .card a {
+  display: inline-block;
+  background-color: #0082e6;
+  color: #f7f7f7;
+  padding: 8px 10px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.blog-section .section-content .cards .card .posted-date p {
+  font-weight: 600;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-display: inline-block;
+  background-color: #0082e6;
+  color: #f7f7f7;
+  padding: 6px 15px;
+}
 /* Main section end here */
 /* Mobile sections end here */
