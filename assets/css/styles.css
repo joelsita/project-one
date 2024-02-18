@@ -8,8 +8,21 @@
   margin: 0;
   padding: 0;
   text-decoration: none;
-  list-style: none;
+  list-style-type: none;
   box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+  scroll-behavior: smooth;
+}
+
+/* header section start here  */
+.header {
+  width: 100%;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+  background-position: center;
 }
 
 /* Mobile sections end here */
