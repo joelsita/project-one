@@ -25,4 +25,44 @@ html {
   background-position: center;
 }
 
+/* logo */
+.logo {
+  cursor: pointer;
+}
+
+/* navigation */
+
+.header .navigation-links {
+  padding: 3px;
+  margin: auto;
+  /* display all nav element side by side */
+  display: block;
+  /* justify-content: baseline; */
+}
+ .navigation-links ul li {
+  /* display: none; */
+  margin-top: 20px;
+  font-size: 25px;
+  padding-left: 50px;
+}
+
+/* navigation  ancor links text */
+.navigation-links ul li a {
+  text-transform: uppercase;
+  color: white;
+  font-weight: 800;
+  padding: 2px;
+ 
+}
+
+/* navigation bar background effect when mouse is hovered  */
+.navigation-links  a:hover {
+  background: black;
+  transition: 0.5s;
+}
+
+.active{
+  text-shadow: 2px 2px 2px rgb(77, 5, 5);
+  font-size: x-large;
+}
 /* Mobile sections end here */
