@@ -185,18 +185,18 @@ main {
   width: 100%;
 }
 
-.about .about-content .cards {
+.about .about-content .news {
   grid-gap: 50px;
   margin: 20px auto;
 }
 
-.about .about-content .cards .card img {
+.about .about-content .news .news-details img {
   width: 100%;
   height: auto;
   
 }
 
-.about .about-content .cards .card .article p {
+.about .about-content .news .news-details .article p {
   width: 100%;
   padding-bottom: 10px;
 }
@@ -225,27 +225,27 @@ main {
 }
 
 /* events start here */
-.blog-section {
+#event {
   width: 100%;
 }
 
-.blog-section .section-content {
+#event .events {
   width: 100%;
   padding: 7px;
 }
 
-.blog-section .section-content .title {
+#event .events .title {
   width: 100%;
 }
 
-.blog-section .section-content h2 {
+#event .events h2 {
   font-size: 30px;
   color: #3099e9;
   text-transform: uppercase;
   padding-right: 45px;
 }
 
-.blog-section .section-content p {
+#event .events p {
   font-size: 18px;
   color: #6a6a6a;
   text-transform: capitalize;
@@ -253,26 +253,26 @@ main {
   width: 100%;
 }
 
-.blog-section .section-content .cards {
+#event .events .news {
   grid-gap: 50px;
   margin: 25px auto;
 }
-.blog-section .section-content .cards .card {
+#event .events .news .news-details {
   width: 100%;
   background-color: #f7f7f7;
   position: relative;
 }
 
-.blog-section .section-content .cards .card img {
+#event .events .news .news-details img {
   width: 100%;
   height: auto;
 }
 
-.blog-section .section-content .cards .card .article {
+#event .events .news .news-details .article {
   padding: 15px 20px;
 }
 
-.blog-section .section-content .cards .card .article h4 {
+#event .events .news .news-details .article h4 {
   font-size: 20px;
   color: #0082e6;
 }
@@ -281,14 +281,14 @@ main {
   font-size: 25px;
 }
 
-.blog-section .section-content .cards .card .article p {
+#event .events .news .news-details .article p {
   font-size: 20px;
   color: #6a6a6a;
   text-transform: capitalize;
   width: 100%;
 }
 
-.blog-section .section-content .cards .card a {
+#event .events .news .news-details a {
   display: inline-block;
   background-color: #0082e6;
   color: #f7f7f7;
@@ -297,12 +297,12 @@ main {
   margin-bottom: 20px;
 }
 
-.blog-section .section-content .cards .card .posted-date p {
+#event .events .news .news-details .posted p {
   font-weight: 600;
   position: absolute;
   top: 0;
   left: 0;
-  font-display: inline-block;
+  display: inline-block;
   background-color: #0082e6;
   color: #f7f7f7;
   padding: 6px 15px;
@@ -605,41 +605,40 @@ footer {
     color: #3099e9;
   
   }
- .about1 h2{
-  text-align: none;
- }
+ 
+ 
   
   .about .about-content p{
     
     padding-right: 40px;
   }
 
-  .about .about-content .cards{
+  .about .about-content .news{
   
     margin: 25px auto;
   }
-  .about .about-content .cards .card{
+  .about .about-content .news .news-details{
     width: 100%;
     background-color: #f7f7f7;
     position: relative;
   }
   
-  .about .about-content .cards .card img{
+  .about .about-content .news .news-details img{
     width: 100%;
     height: auto;
   }
   
-  .about .about-content .cards .card .article{
+  .about .about-content .news .news-details .article{
     padding: 15px 20px;
   }
   
   
-  .blog-section .section-content .cards .card .article h4{
+  .blog-section .events .news .news-details .article h4{
   font-size: 18px;
   color: #0082e6;
   }
   
-  .about .about-content .cards .card .article p{
+  .about .about-content .news .news-details .article p{
     font-size: 18px;
     color: #6a6a6a;
     text-transform: capitalize;
