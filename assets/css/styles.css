@@ -15,7 +15,7 @@ html{
 }
 body{
   height: 100%;
- font-family: 'Montserrat';
+ font-family: 'sans-serif';
 }
 h1{
   font-family: 'Roboto', sans-serif;
@@ -38,36 +38,30 @@ h3,h4{
   width: 100%;
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
   background-position: center;
-  /* background-size: center; */
 }
 
 /* logo */
 
 .logo {
-  width: 100px;
   cursor: pointer;
 }
 
 .navbar {
-  width: 100%;
   padding: 3px;
   margin: auto;
   /* display all nav element side by side */
   display: block;
   /* justify-content: baseline; */
 }
-
 /* nav list */
 .navbar ul li {
-  /* for list to show side by side */
   display: none;
   /* create space between list element */
   margin-top: 20px;
   font-size: 25px;
   padding-left: 50px;
 }
-
-/* nav ankor links text */
+/* nav  links text */
 .navbar ul li a {
   text-transform: uppercase;
   color: white;
@@ -545,7 +539,6 @@ footer {
     display: inline-block;
     /* create space between list element */
     margin: 0px;
-    font-size: 20px;
     padding: 10px;
   }
   
