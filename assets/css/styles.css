@@ -174,7 +174,6 @@ main {
 .about .about-content p {
   font-size: 18px;
   color: #6a6a6a;
-  text-transform: capitalize;
   margin-top: 20px;
   width: 100%;
 }
@@ -242,7 +241,6 @@ main {
 #event .events p {
   font-size: 18px;
   color: #6a6a6a;
-  text-transform: capitalize;
   margin-top: 20px;
   width: 100%;
 }
@@ -278,7 +276,6 @@ main {
 #event .events .news .news-details .article p {
   font-size: 20px;
   color: #6a6a6a;
-  text-transform: capitalize;
   width: 100%;
 }
 
@@ -339,7 +336,6 @@ main {
   font-weight: 300;
   font-size: 20px;
   color: white;
-  text-transform: capitalize;
   width: 100%;
 
 }
@@ -634,7 +630,6 @@ footer {
   .about .about-content .news .news-details .article p{
     font-size: 18px;
     color: #6a6a6a;
-    text-transform: capitalize;
     }
   
 
