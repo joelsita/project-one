@@ -17,9 +17,9 @@ Mags foundation is a non-profit charity that is based in RD Congo. The founder o
 
 ## User Story
 
-My website's primary objective is to raise awareness about Endometriosis by providing people with relevant information. The intended audience for the website is females aged between 14-55, as this group is usually the most affected by this condition.
+The reason behind this website is to raise awareness about mags foundation activies, so peoples can get involved.
 
-The end-users visiting the website expect to gain knowledge about Endometriosis, find ways to get in touch with the charity and learn about the services and support offered by the organization.
+Users can become a member or they can donate to help out with our annual event. They can simply do this by either contact us with email or phone, otherwise they can easily submit a form with their inquiries.
 
 Features to note are users can easily get in touch, donate, and join the community through links on the website. 
 
@@ -44,6 +44,18 @@ As a first-time user of the website to be able to:
   ![navigation](assets/Doc/navbar.png)
 
 
+## Video
+I have included children playing video to capture visitor's mind when they land to our page. this video shows an image of chidreen with a happy face.
+- video was taken during our annual happy child event.
+![video](assets/Doc/video.png)
+
+
+## Welcone message
+This section is to welcome and to thank users from visting our page.
+
+## About us Section
+This section provide about information about mags foundation. It provide the type of service we do and where the activies takes places.
+![video](assets/Doc/about.png)
 
 ### Reference
 
