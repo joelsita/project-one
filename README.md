@@ -57,6 +57,11 @@ This section is to welcome new & old user and thanks who visit our website.
 This section provide about information about mags foundation. This outline your principle and goals. it provides great deatils of the services we operate.
 ![video](assets/Doc/about.png)
 
+## Galleries section
+Here I have included some of the pictures that was captured during our annual events. Those images provide physical represention of the activies we run. I have added a hover affect when user hover a picture the sizes increases and has shadow
+![video](assets/Doc/galleries.png)
+
+
 ### Reference
 
 ### Acknowledgements
