@@ -1,7 +1,7 @@
 # Mags Foundation
 [live project on Github](https://joelsita.github.io/project-one/)
 
-##Project Description
+## Project Description
 Mags foundation is a non-profit charity that is based in RD Congo. The founder of the charity is my brother (Magloire). We lost our dad when we were younger, my bother decided to give some back in turn to those who are orphan. When we went back to congo we visted children's school and  minar prison, we saw how chriden were suffuring my brother decided to create a foundation to help. Mags foundation was created in 2018. head of operation is based in Dublin, Ireland. However all the actions and activities takes place in RD Congo. The purpose of this webisite is to make people aware of the existance of mags foundation and to get people in involved in our activities.
 
 ![overall site](assets/Doc/responsive.png)
@@ -51,10 +51,10 @@ I have included children playing video to capture visitor's mind when they land 
 
 
 ## Welcone message
-This section is to welcome and to thank users from visting our page.
+This section is to welcome new & old user and thanks who visit our website.
 
 ## About us Section
-This section provide about information about mags foundation. It provide the type of service we do and where the activies takes places.
+This section provide about information about mags foundation. This outline your principle and goals. it provides great deatils of the services we operate.
 ![video](assets/Doc/about.png)
 
 ### Reference
