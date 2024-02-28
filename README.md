@@ -60,6 +60,17 @@ This section provide about information about mags foundation. This outline your 
 Here I have included some of the pictures that was captured during our annual events. Those images provide physical represention of the activies we run. I have added a hover affect when user hover a picture the sizes increases and has shadow
 ![video](assets/Doc/galleries.png)
 
+## News &Events 
+In this section we have provided users with all the news & events that will take place throughout the year.
+
+![news](assets/Doc/new-one.jpg)
+![news](assets/Doc/news-two.jpg)
+
+## Contact US
+This section is divided in two halves. I have provided our contact details in case the users want to get in contact with us. 
+I have also provide a form for users to submit their inquiries 
+![contact](assets/Doc/contact-one.jpg)
+![contact](assets/Doc/contact-two.jpg)
 
 ### Reference
 
