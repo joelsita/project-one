@@ -27,10 +27,9 @@ Features to note are users can easily get in touch, donate, and join the communi
 
 As a first-time user of the website to be able to: 
 
-- The website can be easily navigated.
-- Find out what Endometriosis is
-- Find out what some symptoms may be 
-- How to get in touch with the charity 
+- This is a single page and I have added a smoth  scroll feature so users can easily navigate
+
+- I have added background shadow on Home link to show the user that they are on the landing page. 
 - Easily locate social media links.
 - Use the website on mobile devices easily
 
