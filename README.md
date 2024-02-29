@@ -103,7 +103,7 @@ All th feaures of the website have been tested to make sure it working as design
     <tr>
       <td>Event link</td>
        <td>click on Event link</td>
-      <td>This brings the user to Event section/ pass</td>
+      <td>This brings the user to Event section/ pass/ all the text is readble/font and size  is good.</td>
     </tr>
     <tr>
        <td>contact link</td>
@@ -124,33 +124,26 @@ Website is tested acrossed below browsers to check performance
   <thead>
     <tr>
       <th>Tested browser</th>
-      <th>Test Method</th>
-      <th>Expected Outcome</th>
-      <th>Test Result</th>
-      <th>Notes</th>
+      <th>Appearance</th>
+      <th>Responsiveness</th>
+    
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Navigation Bar</td>
-      <td>Manual Testing on Browsers</td>
-      <td>Links navigate correctly, responsive design</td>
-      <td>Pass</td>
-      <td>Tested on Chrome, Safari, Edge</td>
+      <td>Chrome</td>
+      <td>All the links, form, button appears good</td>
+      <td>responsive design/ Good</td>
     </tr>
     <tr>
-      <td>Hero Image</td>
-      <td>Visual Inspection</td>
-      <td>Image is clear, overlay text readable</td>
-      <td>Pass</td>
-      <td>Responsive on all device sizes</td>
+       <td>Edge</td>
+      <td>All the links, form, button appears good</td>
+      <td>responsive design / Good</td>
     </tr>
     <tr>
-      <td>About Section</td>
-      <td>Device Testing, Visual Check</td>
-      <td>Text is responsive and readable across devices</td>
-      <td>Pass</td>
-      <td>Consistent font and size</td>
+      <td>Firefox</td>
+      <td>All the links, form, button appears good</td>
+      <td>responsive design/ Good</td>
     </tr>
     <tr>
       <td>Images Section</td>
@@ -172,20 +165,6 @@ Website is tested acrossed below browsers to check performance
       <td>Donation button links to correct page</td>
       <td>Pass</td>
       <td>Tested button responsiveness on different devices</td>
-    </tr>
-    <tr>
-      <td>Contact Us Section</td>
-      <td>Form Submission Test</td>
-      <td>Form submitted correctly, required fields validated</td>
-      <td>Pass</td>
-      <td>Tested form responsiveness and field requirements</td>
-    </tr>
-    <tr>
-      <td>Footer</td>
-      <td>Manual Testing</td>
-      <td>Social media links work, layout is consistent</td>
-      <td>Pass</td>
-      <td>Social media links open in a new tab</td>
     </tr>
   </tbody>
 </table>
