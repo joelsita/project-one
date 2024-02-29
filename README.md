@@ -112,16 +112,18 @@ All th feaures of the website have been tested to make sure it working as design
     </tr>
     <tr>
       <td>social media icon</td>
-       <td>click on Event link</td>
+       <td>click on icon link</td>
       <td>this open new page and brings the user to our social media pages/ pass</td>
     </tr>
   </tbody>
 </table>
 
+## BrowserTesting
+Website is tested acrossed below browsers to check performance
 <table>
   <thead>
     <tr>
-      <th>Feature</th>
+      <th>Tested browser</th>
       <th>Test Method</th>
       <th>Expected Outcome</th>
       <th>Test Result</th>
