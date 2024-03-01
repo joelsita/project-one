@@ -118,7 +118,7 @@ All th feaures of the website have been tested to make sure it working as design
   </tbody>
 </table>
 
-## BrowserTesting
+## Browser Testing
 Website is tested acrossed below browsers to check performance
 <table>
   <thead>
@@ -126,7 +126,6 @@ Website is tested acrossed below browsers to check performance
       <th>Tested browser</th>
       <th>Appearance</th>
       <th>Responsiveness</th>
-    
     </tr>
   </thead>
   <tbody>
@@ -169,8 +168,26 @@ Website is tested acrossed below browsers to check performance
   </tbody>
 </table>
 
+##Responsive testing
+
+## Libraries and Programs:
+-Used Visual Studio Code  as editor.
+- Used Font Awesome for the social media icons.
+- Used GitHub as version control to add, commit and push to repository
+- Google fonts were used for the fonts.
+- Used balsamiq for wireframes
+- Google Chrome 
+- Firefox (For testing purpose)
+- MS Edge (For purpose)
+
+
+# Technologies Used
+## Languages
+languages used: HTML and CSS3.
 
 ### Reference
+
+
 
 ### Acknowledgements
 I would like to thank my mentor Spence for the help and support. I would like to also thank my wife, family and friend for the incrediably support support they have showed me during this project by doing all the testing for me.
