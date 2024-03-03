@@ -27,17 +27,27 @@ Features to note are users can easily get in touch, donate, and join the communi
 
 As a first-time user of the website to be able to: 
 
-- This is a single page and I have added a smoth  scroll feature so users can easily navigate
+- To nagivate through the website and find relevent sections easily.
 
-- I have added background shadow on Home link to show the user that they are on the landing page. 
-- Easily locate social media links.
-- Use the website on mobile devices easily
+- This website is a single page which makes it easy for new user to find important information.
+- I want New user to get to know mags foundation in great details.
+- new users should be about to find out about our current, past and futures activies.
+
+- new users have the options to contact us directly or to submit a form.
+
+## Old User Stories
+- I want old user to check out upcoming events and get involved. 
+
 
 ## Design
 ## Wireframes
-wireframe design is asved here click to <a href="assets/Doc/New Project 1.bmpr" target="_blank">open</a>
+* Mobile
+ ![wireframes](assets/Doc/wireframe-mobile-1.jpg)
+  ![wireframes](assets/Doc/wireframe-mobile-2.jpg.png)
+   ![wireframes](assets/Doc/wireframe-mobile-3.jpg.png)
 
-
+  * Desktop
+ ![wireforme](assets/Doc/wireframe-desktop1.jpg.png)
 # Features
 ## Navigation Bar
   - navbar is located at the top of the page. 
