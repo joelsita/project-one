@@ -144,41 +144,79 @@ Website is tested acrossed below browsers to check performance
       <td>All the links, form, button appears good</td>
       <td>responsive design/ Good</td>
     </tr>
+ 
+  </tbody>
+</table>
+
+##  Responsiveness
+Website is tested acrossed below browsers to check performance
+<table>
+  <thead>
     <tr>
-      <td>Images Section</td>
-      <td>Click-through Testing</td>
-      <td>Images link to correct pages, hover effect works</td>
-      <td>Pass</td>
-      <td>Checked hover effect on desktop</td>
+      <th>Tested device</th>
+      <th>Appearance</th>
+      <th>Responsiveness</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Chrome</td>
+      <td>All the links, form, button appears good</td>
+      <td>responsive design/ Good</td>
     </tr>
     <tr>
-      <td>Information Section</td>
-      <td>Content Verification</td>
-      <td>Accurate and up-to-date information about condition</td>
-      <td>Pass</td>
-      <td>Cross-checked with medical resources</td>
+       <td>Edge</td>
+      <td>All the links, form, button appears good</td>
+      <td>responsive design / Good</td>
     </tr>
     <tr>
-      <td>Donate Section</td>
-      <td>Functional Testing</td>
-      <td>Donation button links to correct page</td>
-      <td>Pass</td>
-      <td>Tested button responsiveness on different devices</td>
+      <td>Firefox</td>
+      <td>All the links, form, button appears good</td>
+      <td>responsive design/ Good</td>
     </tr>
+ 
   </tbody>
 </table>
 
 ##Responsive testing
+<table>
+  <thead>
+    <tr>
+      <th>Tested Device</th>
+      <th>Site responsive  min-width: 600px</th>
+       <th>Site responsive min-width: 768px</th>
+        <th>Site responsive min-width: 992px600px</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Phone 14 pro</td>
+      <td>All the links, form, button appears good</td>
+      <td>responsive design/ Good</td>
+    </tr>
+    <tr>
+       <td>Edge</td>
+      <td>All the links, form, button appears good</td>
+      <td>responsive design / Good</td>
+    </tr>
+    <tr>
+      <td>Firefox</td>
+      <td>All the links, form, button appears good</td>
+      <td>responsive design/ Good</td>
+    </tr>
+ 
+  </tbody>
+</table>
 
 ## Libraries and Programs:
--Used Visual Studio Code  as editor.
+- Used Visual Studio Code  as editor.
 - Used Font Awesome for the social media icons.
 - Used GitHub as version control to add, commit and push to repository
-- Google fonts were used for the fonts.
+- Used Google fonts to traget elements font style.
 - Used balsamiq for wireframes
 - Google Chrome 
 - Firefox (For testing purpose)
-- MS Edge (For purpose)
+- MS Edge (For testing purpose)
 
 
 # Technologies Used
