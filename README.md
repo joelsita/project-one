@@ -34,7 +34,7 @@ As a first-time user of the website to be able to:
 - Use the website on mobile devices easily
 
 ## Design
-##Wireframes
+## Wireframes
 wireframe design is asved here click to <a href="assets/Doc/New Project 1.bmpr" target="_blank">open</a>
 
 
