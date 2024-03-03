@@ -292,7 +292,7 @@ I included min-width: 768px
 
 * At min-width: 768px padding was 24px as result contact-us link is showing out of place. 
 ![bugs](assets/Doc/bugs2.jpg)
-###solution
+### solution
 Removed padding
 ![bugs](assets/Doc/bugs2-fixed.jpg)
 
