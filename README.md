@@ -268,7 +268,7 @@ languages used: HTML(page structures) and CSS3(styling of the page).
 ## Bugs
 * Once you switch to mobile version, click menu icon the dropdown displayed. This is remaing on a larger screen.
 
-###solution 
+### solution 
 I included min-width: 768px
  #check:checked ~ ul li {
     display: inline-block;
@@ -293,13 +293,17 @@ added a container
 
 
 
-## Credits
+# Credits
+## Code Used
 - Toggle feature was taken from Ci project "love Running"
-- Used <a href="https://www.w3schools.com/"> W3Schools </a> to implement some sections of my website.
-- I watched video <a href="https://www.youtube.com/watch?v=Jq_Zebxa-YI&ab_channel=EasyCode">here </a> on how to add background video.
+- Used <a href="https://www.w3schools.com/" target="_blank"> W3Schools </a> to implement some sections of my website.
+- I watched video <a href="https://www.youtube.com/watch?v=Jq_Zebxa-YI&ab_channel=EasyCode" target="_blank">here </a> on how to add background video.
 
 
-- I watched video <a href="https://www.youtube.com/watch?v=Trw_9lisYVY&ab_channel=Tech2etc">here </a> on how to make responsive gallary
+- I watched video <a href="https://www.youtube.com/watch?v=Trw_9lisYVY&ab_channel=Tech2etc" target="_blank">here </a> on how to make responsive gallary.
+
+## Media
+- All videos and pictures are from <a href="https://www.facebook.com/magloire.ndongo1" target="_blank">Mags foundation </a>
 
 ## Acknowledgements
 I would like to thank my mentor Spence for the help and support. I would like to also thank my wife, family and friend for the incrediably support support they have showed me during this project by doing all the testing for me.
