@@ -320,4 +320,4 @@ added a container
 - All videos and pictures are from <a href="https://www.facebook.com/magloire.ndongo1" target="_blank">Mags foundation </a>
 
 ## Acknowledgements
-I would like to thank my mentor Spence for the help and support. I would like to also thank my wife, family and friend for the incrediably support support they have showed me during this project by doing all the testing for me.
+I would like to thank my mentor Spence for the help and support. I would like to also thank my wife, family and friend for the incredible support they have showed me during this project by doing all the testing for me.
