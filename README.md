@@ -23,7 +23,7 @@ Users can become a member or they can donate to help out with our annual event. 
 
 Features to note are users can easily get in touch, donate, and join the community through links on the website. 
 
-## New User Stories
+### New User
 
 As a first-time user of the website to be able to: 
 
@@ -35,11 +35,12 @@ As a first-time user of the website to be able to:
 
 - new users have the options to contact us directly or to submit a form.
 
-## Old User Stories
+### Old User
 - I want old user to check out upcoming events and get involved. 
 
 
 ## Design
+Website is consist of one page. easy to navigate and smooth transition to go through each sections.
 ## Wireframes
 * Mobile
  ![wireframes](assets/Doc/wireframe-mobile-1.jpg)
