@@ -4,7 +4,7 @@
 ## Project Description
 Mags foundation is a non-profit charity that is based in RD Congo. The founder of the charity is my brother (Magloire). We lost our dad when we were younger, my bother decided to give some back in turn to those who are orphan. When we went back to congo we visted children's school and  minar prison, we saw how chriden were suffuring my brother decided to create a foundation to help. Mags foundation was created in 2018. head of operation is based in Dublin, Ireland. However all the actions and activities takes place in RD Congo. The purpose of this webisite is to make people aware of the existance of mags foundation and to get people in involved in our activities.
 
-![overall site](assets/Doc/responsive.png)
+![overall site](assets/Doc/responsive.jpg)
 
 
 
@@ -49,6 +49,18 @@ Website is consist of one page. easy to navigate and smooth transition to go thr
 
   * Desktop
  ![wireforme](assets/Doc/wireframe-desktop1.jpg.png)
+
+# Deployment
+1. Go to the Settings tab of your GitHub repo.
+2. On the left-hand sidebar, in the Code and automation section, select Pages.
+3. Make sure:
+Source is set to 'Deploy from Branch'.
+Main branch is selected.
+Folder is set to / (root).
+4. Under Branch, click Save.
+5. Go back to the Code tab. Wait a few minutes for the build to finish and refresh your repo.
+6. On the right-hand side, in the Environments section, click on 'Github-pages'.
+
 # Features
 ## Navigation Bar
   - navbar is located at the top of the page. 
