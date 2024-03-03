@@ -196,18 +196,27 @@ Website is tested acrossed below browsers to check performance
       <td>N/A</td>
     </tr>
     <tr>
-       <td>Edge</td>
-      <td>All the links, form, button appears good</td>
-      <td>responsive design / Good</td>
+       <td>ipad tablet</td>
+      <td>N/A</td>
+      <td>Good/ nav Links are displayed</td>
+      <td>N/A</td>
     </tr>
     <tr>
-      <td>Firefox</td>
-      <td>All the links, form, button appears good</td>
-      <td>responsive design/ Good</td>
+       <td>nest hub larger screen</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>Good/ nav Links are displayed</td>
     </tr>
  
   </tbody>
 </table>
+
+# Code Validation:
+## HTML Validation
+![HTML](assets/Doc/html-validation.jpg)
+
+## CSS Validation
+![CSS](assets/Doc/css-validation.jpg)
 
 ## Libraries and Programs:
 - Used Visual Studio Code  as editor.
