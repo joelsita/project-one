@@ -33,6 +33,10 @@ As a first-time user of the website to be able to:
 - Easily locate social media links.
 - Use the website on mobile devices easily
 
+## Design
+##Wireframes
+wireframe design is asved here click to <a href="assets/Doc/New Project 1.bmpr" target="_blank">open</a>
+
 
 # Features
 ## Navigation Bar
