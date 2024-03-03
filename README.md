@@ -249,7 +249,35 @@ Website is tested acrossed below browsers to check performance
 
 # Technologies Used
 ## Languages
-languages used: HTML and CSS3.
+languages used: HTML(page structures) and CSS3(styling of the page).
+
+## Bugs
+* Once you switch to mobile version, click menu icon the dropdown displayed. This is remaing on a larger screen.
+
+###solution 
+I included min-width: 768px
+ #check:checked ~ ul li {
+    display: inline-block;
+    border: none;
+  } in media query 
+
+* At min-width: 768px padding was 24px as result contact-us link is showing out of place. 
+![bugs](assets/Doc/bugs2.jpg)
+###solution
+Removed padding
+![bugs](assets/Doc/bugs2-fixed.jpg)
+
+* page width scratching making page's contect displaying out of place.
+
+### Solution
+added a container 
+.container {
+  max-width: 1080px;
+  width:100%;
+  margin: 0 auto;
+}
+
+
 
 ### Reference
 
