@@ -233,6 +233,9 @@ Website is tested acrossed below browsers to check performance
 ## CSS Validation
 ![CSS](assets/Doc/css-validation.jpg)
 
+## Lighthouse Test
+![CSS](assets/Doc/lighthouse%20test.jpg)
+
 ## Libraries and Programs:
 - Used Visual Studio Code  as editor.
 - Used Font Awesome for the social media icons.
