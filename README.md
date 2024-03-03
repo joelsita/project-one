@@ -291,9 +291,11 @@ added a container
 
 
 
-### Reference
+## Credits
+- Toggle feature was taken from Ci project "love Running"
+Used <a href="https://www.w3schools.com/"> W3Schools </a> to implement some sections of my website.
 
 
 
-### Acknowledgements
+## Acknowledgements
 I would like to thank my mentor Spence for the help and support. I would like to also thank my wife, family and friend for the incrediably support support they have showed me during this project by doing all the testing for me.
