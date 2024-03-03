@@ -517,7 +517,6 @@ footer {
   }
 
   .navbar{
-    padding: 20px;
     display:flex;
     align-items: center;
     /* create space between the nav element i.e image  in one place and list in another space  */

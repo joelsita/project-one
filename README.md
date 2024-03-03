@@ -191,8 +191,9 @@ Website is tested acrossed below browsers to check performance
   <tbody>
     <tr>
       <td>Phone 14 pro</td>
-      <td>All the links, form, button appears good</td>
-      <td>responsive design/ Good</td>
+      <td>Good/ nav Links are hiden. Menu icon display</td>
+      <td>N/A</td>
+      <td>N/A</td>
     </tr>
     <tr>
        <td>Edge</td>
