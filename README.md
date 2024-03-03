@@ -246,6 +246,8 @@ Website is tested acrossed below browsers to check performance
 ![CSS](assets/Doc/css-validation.jpg)
 
 ## Lighthouse Test
+### performance 
+* was less than 90%. I reduced image width to 600px and this improves the overall preformance and accessibility. 
 ![CSS](assets/Doc/lighthouse%20test.jpg)
 
 ## Libraries and Programs:
@@ -293,9 +295,11 @@ added a container
 
 ## Credits
 - Toggle feature was taken from Ci project "love Running"
-Used <a href="https://www.w3schools.com/"> W3Schools </a> to implement some sections of my website.
+- Used <a href="https://www.w3schools.com/"> W3Schools </a> to implement some sections of my website.
+- I watched video <a href="https://www.youtube.com/watch?v=Jq_Zebxa-YI&ab_channel=EasyCode">here </a> on how to add background video.
 
 
+- I watched video <a href="https://www.youtube.com/watch?v=Trw_9lisYVY&ab_channel=Tech2etc">here </a> on how to make responsive gallary
 
 ## Acknowledgements
 I would like to thank my mentor Spence for the help and support. I would like to also thank my wife, family and friend for the incrediably support support they have showed me during this project by doing all the testing for me.
