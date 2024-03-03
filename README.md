@@ -8,14 +8,22 @@ Mags foundation is a non-profit charity that is based in RD Congo. The founder o
 
 
 
-## Table of Contents
-* [UXD (User Experience Design)](#user-experience-ux)
-  * [User Stories](#user-stories) 
+# Table of Contents
+1. [UX](#user-experience-ux)
+    - [User stories](#user-stories)
+    - [New User](#new-user)
+    - [Old User](#old-user)
+2. [Design](#design) 
+    - [Wireframes](#wireframes)
+      - [Mobile](#mobile)
+      - [Desktop](#desktop)
+    - [ Colour Scheme](#colour-scheme)
+    - [ Imagey](#imagery)
+3. [Deployment](#deployment) 
 
-  http://www.responsinator.com/?url=https://joelsita.github.io/project-one/
 
-
-## User Story
+# User experience (UX)
+## User Stories
 
 The reason behind this website is to raise awareness about mags foundation activies, so peoples can get involved.
 
@@ -42,13 +50,19 @@ As a first-time user of the website to be able to:
 ## Design
 Website is consist of one page. easy to navigate and smooth transition to go through each sections.
 ## Wireframes
-* Mobile
+#### Mobile
  ![wireframes](assets/Doc/wireframe-mobile-1.jpg)
   ![wireframes](assets/Doc/wireframe-mobile-2.jpg.png)
    ![wireframes](assets/Doc/wireframe-mobile-3.jpg.png)
 
-  * Desktop
+  #### Desktop
  ![wireforme](assets/Doc/wireframe-desktop1.jpg.png)
+
+## Colour Scheme
+
+## Imagery
+- Images for this website was taken from mags foundation social media pages.
+
 
 # Deployment
 1. Go to the Settings tab of your GitHub repo.
