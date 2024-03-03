@@ -118,22 +118,22 @@ All th feaures of the website have been tested to make sure it working as design
   </thead>
   <tbody>
     <tr>
-      <td>Navbar|About</td>
+      <td>Navbar| About</td>
       <td>click on about link</td>
       <td>This brings the user to about section</td>
     </tr>
     <tr>
-      <td>Navbar|Gallery</td>
+      <td>Navbar| Gallery</td>
       <td>click on gallery link</td>
       <td>This brings the user to Gallery section/ pass</td>
     </tr>
     <tr>
-      <td>Navbar|Event</td>
+      <td>Navbar| Event</td>
        <td>click on Event link</td>
       <td>This brings the user to Event section/ pass/ all the text is readble/font and size  is good.</td>
     </tr>
     <tr>
-       <td>Navbar|Contact</td>
+       <td>Navbar| Contact</td>
        <td>click on Contact link/ this brings the user to contact section. user tried to submit a form without filling all the required fields</td>
       <td>This brings the user to Event section/user was prompt to fill the required field before submitting the form/ pass</td>
     </tr>
