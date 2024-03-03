@@ -59,6 +59,7 @@ Website is consist of one page. easy to navigate and smooth transition to go thr
  ![wireforme](assets/Doc/wireframe-desktop1.jpg.png)
 
 ## Colour Scheme
+ ![wireforme](assets/Doc/color-scheme.png)
 
 ## Imagery
 - Images for this website was taken from mags foundation social media pages.
