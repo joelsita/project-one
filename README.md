@@ -327,7 +327,7 @@ languages used: HTML(page structures) and CSS3(styling of the page).
   </thead>
   <tbody>
     <tr>
-      <td>Once you switch to mobile version, click menu icon the dropdown displayed. This is remaing on a larger screen</td>
+      <td>Once you switch to mobile version, click menu icon the dropdown displayed. This is remain on a larger screen</td>
       <td>navigation bar</td>
       <td>I included min-width: 768px
  #check:checked ~ ul li {
