@@ -20,6 +20,42 @@ Mags foundation is a non-profit charity that is based in RD Congo. The founder o
     - [ Colour Scheme](#colour-scheme)
     - [ Imagey](#imagery)
 3. [Deployment](#deployment) 
+4. [Features](#features)
+   - [Video](#video)
+   - [Welcome Message](#welcone-message)
+   - [About US](#about-us-section)
+   - [Galleries](#galleries-section)
+   - [News & Events](#news-events)
+    - [Contact US](#contact-us)
+     - [Footer](#footer)
+
+5. [Testing](#testing)
+    - [Features Testing](#features-testing)
+    - [Browser Testing](#browser-testing)
+    - [Responsiveness](#responsiveness)
+    - [Responsive testing](#responsive-testing)
+
+6.   [Code Validation](#code-validation) 
+      - [HTML Validation](#html-validation)
+      - [CSS Validation](#html-validation) 
+
+7.   [Lighthouse Test](#lighthouse-test) 
+      - [Performance](#performance)
+
+8.   [Libraries and Programs](#libraries-and-programs) 
+
+9.   [Technologies Used](#technologies-used) 
+      - [Languages](#languages)
+
+10.   [Bugs](#bugs) 
+      - [Solution](#solution)
+
+11.   [Credits & Reference](#credits) 
+      - [Code Used](#code-used)
+
+12. [Media](#media)
+12. [Acknowledgements](#acknowledgements)
+
 
 
 # User experience (UX)
@@ -112,11 +148,11 @@ This section is divided in two halves. I have provided our contact details in ca
 I have also provide a form for users to submit their inquiries 
 ![contact](assets/Doc/contact-one.jpg)
 ![contact](assets/Doc/contact-two.jpg)
+created activation <a href="https://formsubmit.co/" target="_blank"> here </a>. I replaced my naked email Use this string ID "68b701a9289a54a8c8eab30e59949984. I submited a form and received the form in my email.
 
 ## footer
 footer section contain our social media in case the visitor want to follow us.
-![contact](assets/Doc/footer.jpg)
-
+![footer](assets/Doc/footer.jpg)
 
 # Testing:
 ## Features Testing
@@ -219,7 +255,7 @@ Website is tested acrossed below browsers to check performance
   </tbody>
 </table>
 
-##Responsive testing
+## Responsive testing
 <table>
   <thead>
     <tr>
@@ -280,7 +316,7 @@ Website is tested acrossed below browsers to check performance
 languages used: HTML(page structures) and CSS3(styling of the page).
 
 ## Bugs
-* Once you switch to mobile version, click menu icon the dropdown displayed. This is remaing on a larger screen.
+1. Once you switch to mobile version, click menu icon the dropdown displayed. This is remaing on a larger screen.
 
 ### solution 
 I included min-width: 768px
@@ -289,7 +325,7 @@ I included min-width: 768px
     border: none;
   } in media query 
 
-* At min-width: 768px padding was 24px as result contact-us link is showing out of place. 
+2. At min-width: 768px padding was 24px as result contact-us link is showing out of place. 
 ![bugs](assets/Doc/bugs2.jpg)
 ### solution
 Removed padding
