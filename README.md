@@ -47,7 +47,7 @@ Mags foundation is a non-profit charity that is based in RD Congo. The founder o
 9.   [Technologies Used](#technologies-used) 
       - [Languages](#languages)
 
-10.   [Bugs](#bugs) 
+10.   [Bugs & Solution](#bugs--solutions) 
       - [Solution](#solution)
 
 11.   [Credits & Reference](#credits) 
@@ -316,35 +316,56 @@ Website is tested acrossed below browsers to check performance
 languages used: HTML(page structures) and CSS3(styling of the page).
 
 ## Bugs & Solutions
-1. Once you switch to mobile version, click menu icon the dropdown displayed. This is remaing on a larger screen.
 
-### solution 
-I included min-width: 768px
+<table>
+  <thead>
+    <tr>
+      <th>Bugs</th>
+      <th>Section</th>
+       <th>Solution & Fix</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Once you switch to mobile version, click menu icon the dropdown displayed. This is remaing on a larger screen</td>
+      <td>navigation bar</td>
+      <td>I included min-width: 768px
  #check:checked ~ ul li {
     display: inline-block;
     border: none;
   } in media query 
-
-2. At min-width: 768px padding was 24px as result contact-us link is showing out of place. 
-![bugs](assets/Doc/bugs2.jpg)
-### solution
-Removed padding
-![bugs](assets/Doc/bugs2-fixed.jpg)
-
-* page width scratching making page's contect displaying out of place.
-
-### Solution
-added a container 
+</td>
+    </tr>
+    <tr>
+       <td>At min-width: 768px padding was 24px as result contact-us link is showing out of place. </td>
+      <td>Navigation Bar</td>
+      <td>Removed padding</td>
+    </tr>
+    <tr>
+       <td>page width scretching making page's contect displaying out of place.</td>
+      <td>All Sections</td>
+      <td>added a container 
 .container {
   max-width: 1080px;
   width:100%;
   margin: 0 auto;
-}
+}</td>
+    </tr>
+ 
+  </tbody>
+</table>
 
+### Issue
+
+![bugs](assets/Doc/bugs2.jpg)
+
+### Solution
+
+![bugs](assets/Doc/bugs2-fixed.jpg)
 
 
 # Credits
-## Code Used
+## Reference
 - Toggle feature was taken from Ci project "love Running"
 - Used <a href="https://www.w3schools.com/" target="_blank"> W3Schools </a> to implement some sections of my website.
 - I watched video <a href="https://www.youtube.com/watch?v=Jq_Zebxa-YI&ab_channel=EasyCode" target="_blank">here </a> on how to add background video.
@@ -354,6 +375,10 @@ added a container
 
 ## Media
 - All videos and pictures are from <a href="https://www.facebook.com/magloire.ndongo1" target="_blank">Mags foundation </a>
+- Used <a href="https://favicon.io/">Favicon</a> to add to site.
+- Used <a href="https://kit.fontawesome.com/be62d1111c.js" target="_blank">font awesome </a> to add social media icon.
+- Used <a href="https://fonts.google.com/" target="_blank"> Google Fonts </a> to style website page.
+
 
 ## Acknowledgements
 I would like to thank my mentor Spence for the help and support. I would like to also thank my wife, family and friend for the incredible support they have showed me during this project by doing all the testing for me.
