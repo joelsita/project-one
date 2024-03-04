@@ -378,6 +378,10 @@ languages used: HTML(page structures) and CSS3(styling of the page).
 - Used <a href="https://favicon.io/">Favicon</a> to add to site.
 - Used <a href="https://kit.fontawesome.com/be62d1111c.js" target="_blank">font awesome </a> to add social media icon.
 - Used <a href="https://fonts.google.com/" target="_blank"> Google Fonts </a> to style website page.
+    - Roboto (H1)
+    - Lato (H3 & H4)
+    - Poppins (H2)
+    - sans-serif (Body)
 
 
 ## Acknowledgements
