@@ -150,7 +150,7 @@ I have also provide a form for users to submit their inquiries
 ![contact](assets/Doc/contact-two.jpg)
 created activation <a href="https://formsubmit.co/" target="_blank"> here </a>. I replaced my naked email Use this string ID "68b701a9289a54a8c8eab30e59949984. I submited a form and received the form in my email.
 
-## footer
+## Footer
 footer section contain our social media in case the visitor want to follow us.
 ![footer](assets/Doc/footer.jpg)
 
@@ -315,7 +315,7 @@ Website is tested acrossed below browsers to check performance
 ## Languages
 languages used: HTML(page structures) and CSS3(styling of the page).
 
-## Bugs
+## Bugs & Solutions
 1. Once you switch to mobile version, click menu icon the dropdown displayed. This is remaing on a larger screen.
 
 ### solution 
