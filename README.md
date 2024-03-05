@@ -336,9 +336,9 @@ languages used: HTML(page structures) and CSS3(styling of the page).
 </td>
     </tr>
     <tr>
-       <td>At min-width: 768px padding was 24px as result contact-us link is showing out of place. </td>
+       <td>At min-width: 768px I added padding of 24px .as result this made contact-us link showing out of place. </td>
       <td>Navigation Bar</td>
-      <td>Removed padding</td>
+      <td>I removed padding</td>
     </tr>
     <tr>
        <td>page width scretching making page's contect displaying out of place.</td>
