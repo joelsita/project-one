@@ -351,7 +351,11 @@ languages used: HTML(page structures) and CSS3(styling of the page).
   margin: 0 auto;
 }</td>
     </tr>
- 
+      <tr>
+       <td>Welcome video auto playing</td>
+      <td>Main section</td>
+      <td> removed autoplay loop muted and added controls. This gives the users the ability to control the video</td>
+    </tr>
   </tbody>
 </table>
 
