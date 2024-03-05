@@ -134,7 +134,7 @@ This section provide about information about mags foundation. This outline your 
 ![video](assets/documents/about.png)
 
 ## Galleries section
-Here I have included some of the pictures that was captured during our annual events. Those images provide physical represention of the activies we run. I have added a hover affect when user hover a picture the sizes increases and has shadow
+Here I have included some of the pictures that was captured during our annual events. Those images provide physical represention of the activies we run. I have added a hover affect when user hover  on a picture the sizes increases and has shadow
 ![video](assets/documents/galleries.png)
 
 ## News &Events 
