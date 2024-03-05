@@ -94,7 +94,7 @@ Website is consist of one page. easy to navigate and smooth transition to go thr
  ![wireforme](assets/documents/desktopWireframe.jpg)
 
 ## Colour Scheme
- ![wireforme](assets/documents/color-scheme.png)
+ ![wireforme](assets/documents/color-scheme.jpg)
 
 ## Imagery
 - Images for this website was taken from mags foundation social media pages.
@@ -122,7 +122,7 @@ Folder is set to / (root).
 
 ## Video
 I have included a video taken during our "happy child" event to capture visitor's mind when they land to our page. this video shows an image of Childrens with a happy face.
-![video](assets/documents/video.png)
+![video](assets/documents/video.jpg)
 
 
 ## Welcone message
@@ -130,11 +130,11 @@ This section is to welcome new & old user and thanks who visit our website.
 
 ## About us Section
 This section provide about information about mags foundation. This outline your principle and goals. it provides great deatils of the services we operate.
-![video](assets/documents/about.png)
+![video](assets/documents/about.jpg)
 
 ## Galleries section
 Here I have included some of the pictures that was captured during our annual events. Those images provide physical represention of the activies we run. I have added a hover affect when user hover  on a picture the sizes increases and has shadow
-![video](assets/documents/galleries.png)
+![video](assets/documents/galleries.jpg)
 
 ## News &Events 
 In this section we have provided users with all the news & events that will take place throughout the year.
@@ -147,7 +147,7 @@ This section is divided in two halves. I have provided our contact details in ca
 I have also provide a form for users to submit their inquiries 
 ![contact](assets/documents/contact-one.jpg)
 ![contact](assets/documents/contact-two.jpg)
-created activation <a href="https://formsubmit.co/" target="_blank"> here </a>. I replaced my naked email Use this string ID "68b701a9289a54a8c8eab30e59949984. I submited a form and received the form in my email.
+created activation <a href="https://formsubmit.co/" target="_blank"> here </a>. I replaced my naked email and replaced it with string ID "68b701a9289a54a8c8eab30e59949984. I submited a form and received the form in my email.
 
 ## Footer
 footer section contain our social media in case the visitor want to follow us.
