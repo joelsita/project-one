@@ -312,7 +312,6 @@ main {
 .contact-dive .contact {
   position: relative;
   min-height: 50vh;
-  padding: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
