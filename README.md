@@ -4,7 +4,7 @@
 ## Project Description
 Mags foundation is a non-profit charity that is based in RD Congo. The founder of the charity is my brother (Magloire). We lost our dad when we were younger, my bother decided to give some back in turn to those who are orphan. When we went back to Congo we visited children's school and  minor prison, we saw how children were suffering my brother decided to create a foundation to help. Mags foundation was created in 2018. head of operation is based in Dublin, Ireland. However all the actions and activities takes place in RD Congo. The purpose of this website is to make people aware of the existence of mags foundation and to get people in involved in our activities.
 
-![overall site](assets/Doc/responsive.jpg)
+![overall site](assets/doc/responsive.jpg)
 
 
 
@@ -87,14 +87,14 @@ As a first-time user of the website to be able to:
 Website is consist of one page. easy to navigate and smooth transition to go through each sections.
 ## Wireframes
 #### Mobile
- ![wireframes](assets/Doc/mobile-wireframe.jpg)
+ ![wireframes](assets/doc/mobile-wireframe.jpg)
 
 
   #### Desktop
- ![wireforme](assets/Doc/desktop-wireframe.jpg)
+ ![wireforme](assets/doc/desktop-wireframe.jpg)
 
 ## Colour Scheme
- ![wireforme](assets/Doc/color-scheme.png)
+ ![wireforme](assets/doc/color-scheme.png)
 
 ## Imagery
 - Images for this website was taken from mags foundation social media pages.
@@ -117,13 +117,13 @@ Folder is set to / (root).
   - mags logo at the top left corner
   - navigation menu at top right corner
 
-  ![navigation](assets/Doc/navbar.png)
+  ![navigation](assets/doc/navbar.png)
 
 
 ## Video
 I have included children playing video to capture visitor's mind when they land to our page. this video shows an image of chidreen with a happy face.
 - video was taken during our annual happy child event.
-![video](assets/Doc/video.png)
+![video](assets/doc/video.png)
 
 
 ## Welcone message
@@ -131,28 +131,28 @@ This section is to welcome new & old user and thanks who visit our website.
 
 ## About us Section
 This section provide about information about mags foundation. This outline your principle and goals. it provides great deatils of the services we operate.
-![video](assets/Doc/about.png)
+![video](assets/doc/about.png)
 
 ## Galleries section
 Here I have included some of the pictures that was captured during our annual events. Those images provide physical represention of the activies we run. I have added a hover affect when user hover a picture the sizes increases and has shadow
-![video](assets/Doc/galleries.png)
+![video](assets/doc/galleries.png)
 
 ## News &Events 
 In this section we have provided users with all the news & events that will take place throughout the year.
 
-![news](assets/Doc/new-one.jpg)
-![news](assets/Doc/news-two.jpg)
+![news](assets/doc/new-one.jpg)
+![news](assets/doc/news-two.jpg)
 
 ## Contact US
 This section is divided in two halves. I have provided our contact details in case the users want to get in contact with us. 
 I have also provide a form for users to submit their inquiries 
-![contact](assets/Doc/contact-one.jpg)
-![contact](assets/Doc/contact-two.jpg)
+![contact](assets/doc/contact-one.jpg)
+![contact](assets/doc/contact-two.jpg)
 created activation <a href="https://formsubmit.co/" target="_blank"> here </a>. I replaced my naked email Use this string ID "68b701a9289a54a8c8eab30e59949984. I submited a form and received the form in my email.
 
 ## Footer
 footer section contain our social media in case the visitor want to follow us.
-![footer](assets/Doc/footer.jpg)
+![footer](assets/doc/footer.jpg)
 
 # Testing:
 ## Features Testing
@@ -290,15 +290,15 @@ Website is tested acrossed below browsers to check performance
 
 # Code Validation:
 ## HTML Validation
-![HTML](assets/Doc/html-validation.jpg)
+![HTML](assets/doc/html-validation.jpg)
 
 ## CSS Validation
-![CSS](assets/Doc/css-validation.jpg)
+![CSS](assets/doc/css-validation.jpg)
 
 ## Lighthouse Test
 ### performance 
 * was less than 90%. I reduced image width to 600px and this improves the overall preformance and accessibility. 
-![CSS](assets/Doc/lighthouse%20test.jpg)
+![CSS](assets/doc/lighthouse%20test.jpg)
 
 ## Libraries and Programs:
 - Used Visual Studio Code  as editor.
@@ -357,11 +357,11 @@ languages used: HTML(page structures) and CSS3(styling of the page).
 
 ### Issue
 
-![bugs](assets/Doc/bugs2.jpg)
+![bugs](assets/doc/bugs2.jpg)
 
 ### Solution
 
-![bugs](assets/Doc/bugs2-fixed.jpg)
+![bugs](assets/doc/bugs2-fixed.jpg)
 
 
 # Credits
