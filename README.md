@@ -87,11 +87,11 @@ As a first-time user of the website to be able to:
 Website is consist of one page. easy to navigate and smooth transition to go through each sections.
 ## Wireframes
 #### Mobile
- ![wireframes](assets/doc/mobile-wireframe.jpg)
+ ![wireframes](assets/doc/mobileWireframe.jpg)
 
 
   #### Desktop
- ![wireforme](assets/doc/desktop-wireframe.jpg)
+ ![wireforme](assets/doc/desktopWireframe.jpg)
 
 ## Colour Scheme
  ![wireforme](assets/doc/color-scheme.png)
