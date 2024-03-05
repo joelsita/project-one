@@ -1,8 +1,8 @@
-/* mobile first  */
+/* Created mobile version first  */
 /* Googles fonts */
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 
-/* * to remove default page setting */
+/* wildcard "*" to remove default page setting */
 * {
   margin: 0;
   padding: 0;
@@ -11,6 +11,7 @@
   box-sizing: border-box;
 }
 
+/* adding a smoth affect to bring the users to next section of the page */
 html{
   scroll-behavior: smooth;
 }
@@ -18,6 +19,7 @@ body{
   height: 100%;
  font-family: 'sans-serif';
 }
+/* font family for each element  */
 h1{
   font-family: 'Roboto', sans-serif;
 }
@@ -29,6 +31,7 @@ h3,h4{
   font-family: 'Lato',sans-serif;
 }
 
+/* This div is added to stop page width from screcthing  */
 .container {
   max-width: 1080px;
   width:100%;
@@ -47,12 +50,13 @@ h3,h4{
   cursor: pointer;
 }
 
+/* Navigation Menu */
+
 .navbar {
   padding: 3px;
   margin: auto;
   /* display all nav element side by side */
   display: block;
-  /* justify-content: baseline; */
 }
 /* nav list */
 .navbar ul li {
@@ -89,7 +93,6 @@ h3,h4{
   top: 45%;
   /* bring contect section to y axis */
   transform: translatey(-10%);
-  /* text-align: center; */
 }
 
 .content h1 {
@@ -129,6 +132,7 @@ button:hover {
 
 /* toggle section */
 #check {
+  /* To hide check input */
   display: none;
 }
 
@@ -148,8 +152,11 @@ button:hover {
 /* 
 main section */
 main {
+  /* make sure the main page pushes the footer to the bottom & to take the rest of the space */
   flex: 1 0 auto;
 }
+
+
 
 .video-clip {
   width: 100%;
@@ -162,7 +169,6 @@ main {
 
 .about .about-content .title {
   width: 100%;
-  /* text-align: center; */
   font-size: 30px;
 }
 
@@ -339,7 +345,6 @@ main {
   display: block;
   justify-content: center;
   align-items: center;
-  /* margin-top: 40px; */
 }
 
 .container-contact .contactInfo {
@@ -461,6 +466,7 @@ footer {
   transition: 0.5s;
 }
 
+/* Added a hover effect on footer social media links */
 .socialIcons a:hover i {
   color: #fff;
   transition: 0.5s;
@@ -485,6 +491,7 @@ footer {
   letter-spacing: 1px;
 }
 
+/* Added a hover effect on footer nav links */
 .footerNav li a:hover {
   opacity: 1;
   color: #0082e6;
@@ -578,7 +585,6 @@ footer {
   
   .about .about-content .title{
     width: 60%;
-    /* text-align: center; */
     margin: auto;
   }
   
