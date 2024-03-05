@@ -61,7 +61,7 @@ Mags foundation is a non-profit charity that is based in RD Congo. The founder o
 # User experience (UX)
 ## User Stories
 
-The reason behind this website is to raise awareness about mags foundation activies, so peoples can get involved.
+The reason behind this website is to raise awareness about mags foundation activities, so peoples can get involved.
 
 Users can become a member or they can donate to help out with our annual event. They can simply do this by either contact us with email or phone, otherwise they can easily submit a form with their inquiries.
 
@@ -71,11 +71,11 @@ Features to note are users can easily get in touch, donate, and join the communi
 
 As a first-time user of the website to be able to: 
 
-- To nagivate through the website and find relevent sections easily.
+- To navigate through the website and find relevant sections easily.
 
 - This website is a single page which makes it easy for new user to find important information.
 - I want New user to get to know mags foundation in great details.
-- new users should be about to find out about our current, past and futures activies.
+- new users should be about to find out about our current, past and futures activities.
 
 - new users have the options to contact us directly or to submit a form.
 
@@ -121,8 +121,7 @@ Folder is set to / (root).
 
 
 ## Video
-I have included children playing video to capture visitor's mind when they land to our page. this video shows an image of chidreen with a happy face.
-- video was taken during our annual happy child event.
+I have included a video taken during our "happy child" event to capture visitor's mind when they land to our page. this video shows an image of Childrens with a happy face.
 ![video](assets/documents/video.png)
 
 
