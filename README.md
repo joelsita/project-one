@@ -87,7 +87,7 @@ As a first-time user of the website to be able to:
 Website is consist of one page. easy to navigate and smooth transition to go through each sections.
 ## Wireframes
 #### Mobile
- ![wireframes](assets/doc/mobileWireframe.jpg)
+ ![wireframes](assets/documents/mobileWireframe.jpg)
 
 
   #### Desktop
